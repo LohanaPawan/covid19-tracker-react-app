@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    justify-content: center;
+    display: flex;
+}
+
+.barChart {
+    width: 80%;
+    justify-content: center;
+    display: flex;
+}
